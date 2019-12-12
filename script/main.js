@@ -246,8 +246,8 @@ const animationTimeline = () => {
         visibility: "visible",
         opacity: 0,
         scale: 80,
-        repeat: 3,
-        repeatDelay: 1.4
+        repeat: 100,
+        repeatDelay: 1
       },
       0.3
     )
